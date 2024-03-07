@@ -12,7 +12,7 @@ for more info: https://weaviate.io/developers/weaviate/installation/docker-compo
 Make a env in your python, install the requirements.txt, run >python add_data_in_batch.py .
 As you may have many images, so in the code we are inserting the 200 images at a time and embedd those. It may take time depending on the numbers of images.
 ## Running the application MM-RAG
-in the env, run streamlit run app_with_vision_description.py .
+in the env, run streamlit run app_KTH_Final.py .
 To generate the description, you need to have Open AI API key.
 You can have that from: https://platform.openai.com/ 
 
